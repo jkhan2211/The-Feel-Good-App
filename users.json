@@ -1,0 +1,27 @@
+{
+    "user1":
+    {
+     "username":"mcolleer0",
+     "password":"HkCaRt",
+     "created":"2021-04-09"
+    },
+    "user2": 
+    {
+        "username":"dmeller1",
+        "password":"ZDgOzJE7kDGJ",
+        "created":"2022-01-11"
+    },
+    "user3": 
+    {
+        "username":"fsculley2",
+        "password":"mwx1TEwD",
+        "created":"2021-11-14"
+    },
+    "user4": 
+    {
+        "username":"fdring3",
+        "password":"3dnfCt08JS",
+        "created":"2021-09-04"
+        
+    }
+}
